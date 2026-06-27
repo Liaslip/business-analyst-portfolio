@@ -1,11 +1,11 @@
 ## Сертификаты и дипломы
 
-### Дипломы кейс-чемпионатов
-![CUP IT 2026](./certificates/Диплом_кейс-чемпионата_CUP_IT_2026.png)
+### Кейс-чемпионаты
+![CUP IT 2026](./certificates/cup_it_2026.png)
 
-![CUP Moscow 2025](./certificates/Диплом_кейс-чемпионата_CUP_Moscow_2025.png)
+![CUP Moscow 2025](./certificates/cup_moscow_2025.png)
 
-### Сертификаты
-![Бизнес-аналитик (расширенный)](./certificates/Сертификат_Бизнес-аналитик_Расширенный.png)
+### Сертификация
+![Business Analyst](./certificates/ba_certificate.png)
 
-![Менеджер проектов и цифровых продуктов](./certificates/Сертификат_Менеджер_проектов_-и_цифровых-продуктов.png)
+![Product Manager](./certificates/pm_certificate.png)
