@@ -10,7 +10,7 @@
 
 ## Артефакты
 
-* Customer Journey Map (CJM)
+* [Customer Journey Map (CJM)](./CJM.pdf)
 * BPMN-модель процессов AS-IS / TO-BE
 * User Story Map
 * [Интерактивный прототип в Figma](https://www.figma.com/proto/5cZsbtoKNyBttn59TzjIek/Lo-fi--%D0%9E%D0%A2%D0%9F?node-id=19-14&p=f&t=mZ9REfWf32l0MmB4-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=19%3A14)
