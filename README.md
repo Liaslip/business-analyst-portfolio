@@ -20,11 +20,7 @@
 * Результаты проекта 
 
 ## Сертификаты
-### Бизнес-аналитик
-![Бизнес-аналитик](./certificates/ba_certificate.png)
+* [Бизнес-аналитик](./certificates/ba_certificate.png)
+  
+* [Менеджер цифровых продуктов](./certificates/pm_certificate.png)
 
----
-### Менеджер проектов и цифровых продуктов
-![Менеджер_проектов_ и_цифровых продуктов](./certificates/pm_certificate.png)
-
----
