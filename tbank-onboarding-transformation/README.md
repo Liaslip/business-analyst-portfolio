@@ -15,7 +15,6 @@
 * [BPMN-модель процессов TO-BE](./BPMN_TO-BE.png)
 * Финансовая модель эффективности (ROI, NPV, DPP)
 * [Дашборд стоимости процесса онбординга](https://datastudio.google.com/reporting/fb3c7a52-e3d1-45b3-bc0c-abc1927bbea8)
-* Презентация решения
 
 ## Результат
 
