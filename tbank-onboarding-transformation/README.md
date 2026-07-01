@@ -11,7 +11,8 @@
 ## Артефакты
 
 * Customer Journey Map (CJM)
-* [BPMN-модель процессов AS-IS / TO-BE](./BPMN_AS-IS.png)
+* [BPMN-модель процессов AS-IS](./BPMN_AS-IS.png)
+* [BPMN-модель процессов TO-BE](./BPMN_TO-BE.png)
 * Финансовая модель эффективности (ROI, NPV, DPP)
 * Дашборд стоимости процесса онбординга
 * Презентация решения
