@@ -36,7 +36,5 @@
 
 ## Контакты
 
-### Контакты
-
-* [Telegram](t.me/liaslip)
-* Тел.: +7-996-620-20-04
+* [Telegram](https://t.me/liaslip)
+* ilyaslipenko46@gmail.com
