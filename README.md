@@ -36,5 +36,7 @@
 
 ## Контакты
 
-- Telegram: @liaslip  
-- LinkedIn: linkedin.com/in/islip
+### Контакты
+
+* [Telegram](t.me/liaslip)
+* Тел.: +7-996-620-20-04
