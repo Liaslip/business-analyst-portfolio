@@ -1,13 +1,46 @@
 # Презентация проекта
-![слайд 1](./project_presentation/slide-1.JPG)
-[слайд 2](./project_presentation/slide-2.JPG)
-[слайд 3](./project_presentation/slide-3.JPG)
-[слайд 4](./project_presentation/slide-4.JPG)
-[слайд 5](./project_presentation/slide-5.JPG)
-[слайд 6](./project_presentation/slide-6.JPG)
-[слайд 7](./project_presentation/slide-7.JPG)
-[слайд 8](./project_presentation/slide-8.JPG)
-[слайд 9](./project_presentation/slide-9.JPG)
-[слайд 10](./project_presentation/slide-10.JPG)
-[слайд 11](./project_presentation/slide-11.JPG)
-[слайд 12](./project_presentation/slide-12.JPG)
+![слайд 1](./slide-1.JPG)
+
+---
+
+![слайд 2](./slide-2.JPG)
+
+---
+
+![слайд 3](./slide-3.JPG)
+
+---
+
+![слайд 4](./slide-4.JPG)
+
+---
+
+![слайд 5](./slide-5.JPG)
+
+---
+
+![слайд 6](./slide-6.JPG)
+
+---
+
+![слайд 7](./slide-7.JPG)
+
+---
+
+![слайд 8](./slide-8.JPG)
+
+---
+
+![слайд 9](./slide-9.JPG)
+
+---
+
+![слайд 10](./slide-10.JPG)
+
+---
+
+![слайд 11](./slide-11.JPG)
+
+---
+
+![слайд 12](./slide-12.JPG)
