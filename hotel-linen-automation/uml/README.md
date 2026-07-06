@@ -1,10 +1,10 @@
 # Диаграмма варинтов использования
-![use-case](./use-case-diagram.png)
+![use-case](./uml-use-case-diagram.png)
 
 ---
 # Диаграмма классов
-![class](./class-diagram.png)
+![class](./uml-class-diagram.png)
 
 ---
 # Диаграмма объектов
-![object](./object-diagram.png)
+![object](./uml-object-diagram.png)
