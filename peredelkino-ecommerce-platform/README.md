@@ -15,8 +15,8 @@
 * [Customer Journey Map (CJM)](./customer-journey-map.pdf)
 * [BPMN-модель AS-IS](./as-is-bpmn.pdf)
 * [BPMN-модель TO-BE](./to-be-bpmn.pdf)
+* [Use Cases и требования к решению](./use_cases.pdf)
 * [UML-диаграммы классов и объектов](./uml)
-* [Требования к решению с Use Case]
 * [Пользовательская инструкция](./user-guide.pdf)
 * [Интерактивный прототип сайта](https://www.figma.com/proto/Lduwl3K2NjHmyTon2hqW9g/%D0%9F%D0%B5%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8%D0%BD%D0%BE?node-id=4-14168&starting-point-node-id=4%3A14168&t=1fnl5DZHJSJCwwTN-1)
 
