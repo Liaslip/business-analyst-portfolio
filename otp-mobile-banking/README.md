@@ -11,7 +11,7 @@
 ## Артефакты
 
 * [Customer Journey Map (CJM)](./project_presentation/slides/slide-9.JPG)
-* [BPMN модель AS-IS](./bpmn-as-is.png)
+* [BPMN-модель AS-IS](./bpmn-as-is.png)
 * [User Story Map](./user-story-map.pdf)
 * [Интерактивный прототип в Figma](https://www.figma.com/proto/5cZsbtoKNyBttn59TzjIek/Lo-fi--%D0%9E%D0%A2%D0%9F?node-id=19-14&p=f&t=mZ9REfWf32l0MmB4-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=19%3A14)
 * [Презентация проекта](./project_presentation)
