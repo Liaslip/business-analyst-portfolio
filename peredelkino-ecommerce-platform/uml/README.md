@@ -1,4 +1,5 @@
 # Диаграмма классов
-![классов](./uml-class-diagram.pdf)
+![class](./uml-class-diagram-1.png)
+![class](./uml-class-diagram-2.png)
 # Диаграмма объектов
-объектов
+![object](./uml-object-diagram.png)
