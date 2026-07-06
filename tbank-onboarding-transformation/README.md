@@ -11,7 +11,7 @@
 ## Артефакты
 
 * Customer Journey Map (CJM)
-* [BPMN-модельAS-IS](./bpmn-as-is.png)
+* [BPMN-модель AS-IS](./bpmn-as-is.png)
 * [BPMN-модель TO-BE](./bpmn-to-be.png)
 * [Дашборд стоимости процесса онбординга](https://datastudio.google.com/reporting/fb3c7a52-e3d1-45b3-bc0c-abc1927bbea8)
 
