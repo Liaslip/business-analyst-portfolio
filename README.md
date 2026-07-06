@@ -16,7 +16,7 @@
 
 | Проект                                                | Домен              | Ключевые артефакты                      |
 | ----------------------------------------------------- | ------------------ | --------------------------------------- |
-| [Трансформация цифрового онбординга клиентов в Т-Банке](<./tbank-onboarding-transformation/>) | FinTech            | BPMN, CJM, BI-дашборд, Финансовая модель |
+| [Трансформация цифрового онбординга клиентов в Т-Банке](<./tbank-onboarding-transformation/>) | FinTech            | BPMN, CJM, BI-дашборд |
 | [Оптимизация сайта магазина «Переделкино»](./peredelkino-ecommerce-platform)              | E-commerce         | BPMN, UML, CJM, Use Case                |
 | [Доработка функционала рецептов в приложении Самокат](./samokat-recipe-catalog)     | E-commerce         | BPMN, ТЗ, Прототип                      |
 | [Оптимизация витрины мобильного банка ОТП](./otp-mobile-banking)          | FinTech            | BPMN, CJM, User Story Map, Прототип     |
