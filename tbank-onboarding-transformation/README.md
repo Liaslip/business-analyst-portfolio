@@ -10,7 +10,7 @@
 
 ## Артефакты
 
-* [Customer Journey Map (CJM)]([https://miro.com/app/board/uXjVH90zxe4=/?share_link_id=513893418024](https://miro.com/app/live-embed/uXjVH90zxe4=/?focusWidget=3458764677672643132&embedMode=view_only_without_ui&embedId=688416866585))
+* [Customer Journey Map (CJM)](https://miro.com/app/board/uXjVH90zxe4=/?share_link_id=513893418024](https://miro.com/app/live-embed/uXjVH90zxe4=/?focusWidget=3458764677672643132&embedMode=view_only_without_ui&embedId=688416866585))
 * [BPMN-модель AS-IS](./bpmn-as-is.png)
 * [BPMN-модель TO-BE](./bpmn-to-be.png)
 * [Дашборд стоимости процесса онбординга](https://datastudio.google.com/reporting/fb3c7a52-e3d1-45b3-bc0c-abc1927bbea8)
