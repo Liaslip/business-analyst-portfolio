@@ -10,7 +10,7 @@
 
 ## Артефакты
 
-* Customer Journey Map (CJM)
+* [Customer Journey Map (CJM)](https://miro.com/app/board/uXjVH90zxe4=/?share_link_id=513893418024)
 * [BPMN-модель AS-IS](./bpmn-as-is.png)
 * [BPMN-модель TO-BE](./bpmn-to-be.png)
 * [Дашборд стоимости процесса онбординга](https://datastudio.google.com/reporting/fb3c7a52-e3d1-45b3-bc0c-abc1927bbea8)
