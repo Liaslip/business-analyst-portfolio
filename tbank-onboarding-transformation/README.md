@@ -22,3 +22,6 @@
 ---
 ### Дашборд себестоимости цифрового онбординга клиентов
 ![Дашборд](./onboarding-cost-dashboard.png)
+
+---
+![CJM](./customer-journey-map.jpg)
